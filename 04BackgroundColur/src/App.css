@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+.btn {
+    width: 90px;
+    height: 40px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 500;
+    transition: 0.3s;
+}
+.btn:hover {
+    transform: scale(1.08);
+    opacity: 0.9;
+}
+
+.btn2 {
+    width: 90px;
+    height: 40px;
+    border-radius: 8px;
+    color: black;
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+.btn2:hover {
+    transform: scale(1.08);
+    opacity: 0.9;
+}
